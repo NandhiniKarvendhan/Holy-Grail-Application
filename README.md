@@ -5,7 +5,7 @@ This repository contains full stack holy grail application. The front end of the
 ## How to use
 
 1. Download or clone the repository.
-2. Run npm install in terminal.
+2. Run npm install in the terminal.
 3. Run Docker in terminal, docker run -p 6379:6379 --name some-redis -d redis
 4. Run node index.js.
 
