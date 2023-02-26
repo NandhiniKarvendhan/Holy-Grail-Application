@@ -2,6 +2,8 @@
 
 This repository contains full stack holy grail application. The front end of the application will have a header, a footer, a main article, and panes on the right and left. The front end of the application use react framework and back end is running on the Node.js platform with an additional package of Express for defining the routes and the API. Superagent is used to make calls to the backend. Redis is set up as a database and run it on top of a Docker.
 
+## [DEMO](https://youtu.be/7hDUZLj2nyI)
+
 ## How to use
 
 1. Download or clone the repository.
