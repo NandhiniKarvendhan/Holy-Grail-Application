@@ -11,6 +11,10 @@ This repository contains full stack holy grail application. The front end of the
 3. Run Docker in terminal, docker run -p 6379:6379 --name some-redis -d redis
 4. Run node index.js.
 
+## Screenshot
+
+![](./assets/images/holy_grail.png)
+
 ## LICENSE
 
 MIT License
