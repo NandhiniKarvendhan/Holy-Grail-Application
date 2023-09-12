@@ -11,6 +11,16 @@ This repository contains full stack holy grail application. The front end of the
 3. Run Docker in terminal, docker run -p 6379:6379 --name some-redis -d redis
 4. Run node index.js.
 
+## Technologies 
+1. HTML
+2. CSS
+3. React JS
+4. Node JS
+5. Express
+6. Redis database
+7. Superagent
+8. Docker
+
 ## Screenshot
 
 ![](./assets/images/holy_grail.png)
