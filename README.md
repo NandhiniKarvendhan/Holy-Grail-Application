@@ -16,10 +16,8 @@ This repository contains full stack holy grail application. The front end of the
 2. CSS
 3. React JS
 4. Node JS
-5. Express
+5. Docker
 6. Redis database
-7. Superagent
-8. Docker
 
 ## Screenshot
 
